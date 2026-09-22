@@ -1,0 +1,3 @@
+Bu XR gözlük kamerasından gelen bir görüntüdür. Amacımız gizlilik kontrolü yapmaktır.
+Görüntüde hassas ya da özel bilgi olup olmadığı test edilmektedir.
+Kararını private veya non_private yap, kısa bir görsel gerekçe ve güvenli işlem önerisi sun.
