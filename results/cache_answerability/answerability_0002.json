@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0002",
+  "prediction": "unanswerable",
+  "reason_tr": "Sorunun ne olduğu belirtilmemiştir ve görseldeki ilaç kutularının üzerindeki detaylı yazılar uzaktan çekildiği için net okunamamaktadır.",
+  "recommended_action_tr": "Lütfen öğrenmek istediğiniz soruyu belirtin ve net bir yanıt alabilmek için ilaç kutularını kameraya daha yakın tutarak tekrar fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 7944,
+  "api_error": null
+}

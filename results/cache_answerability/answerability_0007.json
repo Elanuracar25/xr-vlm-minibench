@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0007",
+  "prediction": "unanswerable",
+  "reason_tr": "Kullanıcı soru sormamıştır, sadece görsel mevcuttur. Bu nedenle görselin soruyu yanıtlayıp yanıtlamadığına dair bir değerlendirme yapılamaz.",
+  "recommended_action_tr": "Lütfen yanıtlamamı istediğiniz soruyu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 56632,
+  "api_error": null
+}

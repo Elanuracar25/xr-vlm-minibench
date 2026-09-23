@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0042",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel aşırı derecede bulanık ve düşük çözünürlüklü olduğu için dükkanın adını ve detaylarını net bir şekilde okumak mümkün değildir.",
+  "recommended_action_tr": "Lütfen kamerayı daha net odaklayarak veya daha iyi ışık altında tekrar fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 220588,
+  "api_error": null
+}

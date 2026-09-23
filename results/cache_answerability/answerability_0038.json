@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0038",
+  "prediction": "unanswerable",
+  "reason_tr": "Görselin büyük bir kısmı parmakla kapatılmış ve son derece bulanık olduğu için herhangi bir bilgiyi okumak veya soruyu yanıtlamak mümkün değildir.",
+  "recommended_action_tr": "Lütfen parmağınızı kameranın önünden çekin ve görüntüyü netleştirerek tekrar fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 77743,
+  "api_error": null
+}

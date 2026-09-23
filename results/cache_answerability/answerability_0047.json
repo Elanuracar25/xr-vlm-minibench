@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0047",
+  "prediction": "answerable",
+  "reason_tr": "Görselde Bristol markasına ait 20 mg dozunda 28 tablet içeren Citalopram ilaç kutusu net bir şekilde görülmektedir.",
+  "recommended_action_tr": null,
+  "answer": "Görseldeki ilaç Bristol marka, 20 mg dozunda 28 tablet içeren Citalopram'dır.",
+  "needs_human_review": false,
+  "latency_ms": 31023,
+  "api_error": null
+}

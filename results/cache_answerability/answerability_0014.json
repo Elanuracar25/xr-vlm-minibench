@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0014",
+  "prediction": "unanswerable",
+  "reason_tr": "Görseldeki hata mesajı üst kısımdan ve yanlardan kesik olduğu için tam olarak okunmamakta ve kullanıcının sorusuna yönelik yeterli bilgi sunmamaktadır.",
+  "recommended_action_tr": "Lütfen kamerayı ekranı tamamen ve daha net görecek şekilde yukarı kaydırarak yeniden çekim yapın.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 63621,
+  "api_error": null
+}

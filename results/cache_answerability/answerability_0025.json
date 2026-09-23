@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0025",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel dışarıdan çekilmiş genel bir manzarayı göstermektedir; ancak kullanıcının sorduğu spesifik soru veya yönerge bulunmamaktadır.",
+  "recommended_action_tr": "Lütfen sormak istediğiniz soruyu detaylı bir şekilde belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 39862,
+  "api_error": null
+}

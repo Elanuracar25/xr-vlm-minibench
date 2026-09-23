@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0027",
+  "prediction": "unanswerable",
+  "reason_tr": "Gönderilen görseldeki ilaç etiketinin yazıları bulanık ve okunamayacak kadar karanlık olduğu için içerik veya kullanım bilgisi doğrulanamamaktadır.",
+  "recommended_action_tr": "Lütfen daha aydınlık bir ortamda ilacın etiket yazılarını net bir şekilde gösteren yeni bir fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 2183,
+  "api_error": null
+}

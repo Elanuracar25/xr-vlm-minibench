@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0018",
+  "prediction": "unanswerable",
+  "reason_tr": "Kullanıcı tarafından herhangi bir soru veya metin girilmemiştir.",
+  "recommended_action_tr": "Lütfen gerçekleştirmek istediğiniz işlemi veya sorunuzu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 21530,
+  "api_error": null
+}

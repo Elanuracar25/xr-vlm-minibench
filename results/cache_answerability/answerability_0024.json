@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0024",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel dik (yan) olarak çekilmiştir ve kullanıcı tarafından yöneltilen soru veya istek belirtilmemiştir. Bu nedenle görselin soruyu yanıtlamak için yeterli olup olmadığı belirlenememektedir.",
+  "recommended_action_tr": "Lütfen görseli doğru açıyla çekin ve sorunuzu net bir şekilde belirtin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 54311,
+  "api_error": null
+}

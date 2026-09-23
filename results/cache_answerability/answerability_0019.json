@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0019",
+  "prediction": "answerable",
+  "reason_tr": "Görselde yazıcının yanıt vermediğini belirten bir hata mesajı ve çözüm adımları net bir şekilde görülmektedir.",
+  "recommended_action_tr": null,
+  "answer": "Yazıcı yanıt vermiyor hatası alınmaktadır. Çözüm için yazıcının açık olduğundan, USB kablosunun bağlı olduğundan ve print kuyruğunun çevrimiçi olduğundan emin olunmalıdır.",
+  "needs_human_review": false,
+  "latency_ms": 44357,
+  "api_error": null
+}

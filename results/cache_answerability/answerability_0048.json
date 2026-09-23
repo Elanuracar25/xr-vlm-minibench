@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0048",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel aşırı derecede bulanık ve odak dışı olduğu için herhangi bir metin veya bilgi okunamamaktadır.",
+  "recommended_action_tr": "Lütfen kamerayı netleştirerek daha net ve odaklanmış bir fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 21651,
+  "api_error": null
+}

@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0035",
+  "prediction": "unanswerable",
+  "reason_tr": "Görüntüde tutulan belgede önemli bir metin veya adres görünmüyor, sadece genel bir zarf parçası yer alıyor.",
+  "recommended_action_tr": "Lütfen belgenin içeriğinin veya adresin net olarak görüneceği şekilde kamerayı ayarlayın.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 32074,
+  "api_error": null
+}

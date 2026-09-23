@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0013",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel sadece Windows açılış ekranını göstermektedir, kullanıcının görselle ilgili herhangi bir sorusu bulunmamaktadır.",
+  "recommended_action_tr": "Lütfen görselle ilgili sorunuzu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 34746,
+  "api_error": null
+}

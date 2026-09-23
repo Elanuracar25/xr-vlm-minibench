@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0043",
+  "prediction": "unanswerable",
+  "reason_tr": "Görseldeki şişenin etiketi bulanık ve yazılar okunmuyor, bu nedenle ürünün ne olduğunu veya içeriğini belirlemek imkansızdır.",
+  "recommended_action_tr": "Lütfen etiketin net bir şekilde okunabileceği, ışığın yeterli olduğu ve şişeye daha yakın bir açıdan yeni bir fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 31513,
+  "api_error": null
+}

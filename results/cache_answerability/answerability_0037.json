@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0037",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel aşırı derecede parlak, aşırı pozlanmış (overexposed) ve tamamen beyaz bir ışık parlamasıyla kaplanmış olduğu için herhangi bir detay veya nesne ayırt edilememektedir.",
+  "recommended_action_tr": "Lütfen kameranın ışık ayarını düşürün veya aşırı parlamayı önlemek için farklı bir açıdan çekim yapın.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 26068,
+  "api_error": null
+}

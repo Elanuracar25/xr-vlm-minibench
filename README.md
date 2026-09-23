@@ -33,3 +33,11 @@ Aşırı Hassasiyet ve Yanlış Alarmlar (False Positives): Model, sağlam (norm
 Gerçek Kusurları Gözden Kaçırma (False Negatives): Model, resmin bütününe bakıp etiket ve dolum oranı normalse detaya inmiyor. 3, 4 ve 5 numaralı örneklerde (anomaly_struct_0000, 0010, 0011) şişenin üzerindeki asıl yapısal kusurları (çizik, göçük veya kirlilik gibi) tamamen gözden kaçırmış ve "her şey normal standartlarda" diyerek asıl yakalaması gereken arızalı ürünleri üretim bandından geçirmiş.
 
 Talimat (Prompt) Zafiyeti: 5. örnekte (anomaly_struct_0011), model kendisine verilen reason_tr (Türkçe açıklama) talimatını anlık olarak unutup İngilizce çıktı üretmiş. Bu durum, LLM'lerde sıklıkla karşılaşılan ve yapılandırılmış çıktıların (JSON) dil komutlarını ezebildiğini gösteren klasik bir prompt hizalama sorunudur.
+
+## Modül B: Cevaplanabilirlik Değerlendirmesi
+Bu modül, VizWiz-VQA veri seti kullanılarak modelin eksik, bulanık veya yetersiz görsellerde halüsinasyon üretmek yerine "cevaplanamaz" etiketini verme (güvenli ret) kapasitesini ölçer.
+
+- `data/manifests/answerability.jsonl`: 50 örnekten oluşan test manifesti (25 answerable, 25 unanswerable).
+- `src/run_benchmark_b.py`: Görüntüleri Gemini 3.5 Flash Lite API'sine gönderip yanıtları önbelleğe alan çalıştırıcı.
+- `src/evaluate_b.py`: Recall (duyarlılık) ana metriği başta olmak üzere temel sınıflandırma metriklerini ve rastgele hata örneklerini üreten betik.
+- `results/answerability_results.jsonl`: İşlenmiş tahmin ve gerekçe çıktıları.

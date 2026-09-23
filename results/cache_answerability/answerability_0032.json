@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0032",
+  "prediction": "unanswerable",
+  "reason_tr": "Gönderilen görsel aşırı derecede bulanık, yanıltıcı ışık patlamaları içeriyor ve herhangi bir nesne veya metin net olarak ayırt edilemiyor.",
+  "recommended_action_tr": "Lütfen kamerayı sabit tutarak daha net, iyi aydınlatılmış ve odaklanmış bir fotoğraf çekip tekrar deneyin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 6815,
+  "api_error": null
+}

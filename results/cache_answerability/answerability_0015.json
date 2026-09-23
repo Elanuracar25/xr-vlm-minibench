@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0015",
+  "prediction": "unanswerable",
+  "reason_tr": "Kullanıcı sorusu '670000' şeklinde anlamsız veya bağlamsız bir sayı içermektedir ve görselde bu sayı ile eşleşen bir ürün kodu, fiyat veya bilgi bulunmamaktadır.",
+  "recommended_action_tr": "Lütfen geçerli bir soru sorun veya aradığınız ürünü belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 51767,
+  "api_error": null
+}

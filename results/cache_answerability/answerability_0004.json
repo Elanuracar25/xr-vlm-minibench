@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0004",
+  "prediction": "unanswerable",
+  "reason_tr": "Kullanıcı tarafından herhangi bir soru sorulmamıştır, sadece bir kod ('670000') iletilmiştir.",
+  "recommended_action_tr": "Lütfen ürünlerle ilgili öğrenmek istediğiniz soruyu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 50141,
+  "api_error": null
+}

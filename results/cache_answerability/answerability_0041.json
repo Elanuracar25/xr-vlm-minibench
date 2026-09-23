@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0041",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel sadece bir cihazın etiketini (Dell Inspiron 1545) göstermektedir ancak kullanıcı tarafından herhangi bir soru sorulmamıştır.",
+  "recommended_action_tr": "Lütfen cihazla ilgili sorunuzu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 16691,
+  "api_error": null
+}

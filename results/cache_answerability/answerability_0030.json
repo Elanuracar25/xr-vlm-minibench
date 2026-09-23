@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0030",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel aşırı derecede bulanık ve yansımalar nedeniyle üzerindeki metin veya detaylar okunamıyor, soruyu yanıtlamak için yeterli bilgi içermiyor.",
+  "recommended_action_tr": "Lütfen ekranı daha net ve yansımasız bir açıdan, ışığı ayarlayarak tekrar fotoğraflayın.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 38328,
+  "api_error": null
+}

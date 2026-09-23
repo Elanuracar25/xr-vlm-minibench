@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0040",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel, bir dizüstü bilgisayarın ekranını yakından göstermektedir ancak ekranın tamamı görünmemekte ve sorulan soru veya bağlam hakkında yeterli bilgi sunulmamaktadır.",
+  "recommended_action_tr": "Lütfen tam olarak neyi öğrenmek istediğinizi sorun veya tüm ekranı ve ilgili hata mesajlarını net bir şekilde gösterecek şekilde yeni bir fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 2645,
+  "api_error": null
+}

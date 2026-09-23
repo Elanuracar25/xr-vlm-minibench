@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0044",
+  "prediction": "unanswerable",
+  "reason_tr": "Görseldeki monitör ekranında 'Starting Windows' yazısı görünmektedir ancak kullanıcının sorusu veya talebi görselde yer almamaktadır.",
+  "recommended_action_tr": "Lütfen kullanıcı sorusunu iletin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 113599,
+  "api_error": null
+}

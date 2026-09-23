@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0022",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel, kullanıcının sorusunu içermemektedir.",
+  "recommended_action_tr": "Lütfen yanıtlamak istediğiniz soruyu belirtin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 5885,
+  "api_error": null
+}

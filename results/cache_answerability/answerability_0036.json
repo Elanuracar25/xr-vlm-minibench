@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0036",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel aşırı derecede bulanık ve karanlık olduğundan, içerdiği nesneler veya detaylar ayırt edilememektedir.",
+  "recommended_action_tr": "Lütfen kamerayı net bir şekilde nesneye odaklayın ve ortam ışığını artırarak tekrar çekim yapın.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 3789,
+  "api_error": null
+}

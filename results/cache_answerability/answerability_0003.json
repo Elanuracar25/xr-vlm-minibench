@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0003",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel çok karanlık, bulanık ve ne olduğu belirsiz bir nesneyi gösteriyor; dolayısıyla güvenli bir değerlendirme yapmak imkansızdır.",
+  "recommended_action_tr": "Lütfen ortamdaki ışığı artırın ve nesneyi kameraya daha net ve yakından odaklayarak tekrar fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 60756,
+  "api_error": null
+}

@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0046",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel dik (yan) olarak çekilmiştir ve kullanıcı herhangi bir soru sormamıştır.",
+  "recommended_action_tr": "Lütfen fotoğrafı düzgün bir açıyla çekin ve yanıtlanmasını istediğiniz soruyu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 34284,
+  "api_error": null
+}

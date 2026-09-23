@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0045",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel diklemesine (yan) çekilmiş ve sorusu bulunmamaktadır.",
+  "recommended_action_tr": "Lütfen görseli düzgün açıyla ve kullanıcı sorusu ile birlikte tekrar yükleyin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 50727,
+  "api_error": null
+}

@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0020",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel yan dönmüş durumdadır ve kullanıcı herhangi bir soru sormamıştır.",
+  "recommended_action_tr": "Lütfen görüntüyü doğru açıdan çekin ve sorunuzu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 24183,
+  "api_error": null
+}

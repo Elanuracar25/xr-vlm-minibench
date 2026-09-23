@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0050",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel çok bulanık ve odak dışı kalmış, ekrandaki yazılar ve arayüz detayları okunamıyor.",
+  "recommended_action_tr": "Lütfen kamerayı ekrana daha yakın ve net odaklanacak şekilde yeniden konumlandırın.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 184725,
+  "api_error": null
+}

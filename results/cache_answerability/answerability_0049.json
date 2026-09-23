@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0049",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel aşırı derece bulanık, açısı bozuk ve eksik kadrajlıdır. Bu nedenle herhangi bir anlamlı bilgi çıkarılamamaktadır.",
+  "recommended_action_tr": "Lütfen kamerayı düzgün tutun, odaklanmasını bekleyin ve ortamı daha iyi aydınlatarak tekrar çekim yapın.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 11355,
+  "api_error": null
+}

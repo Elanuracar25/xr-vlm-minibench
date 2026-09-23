@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0017",
+  "prediction": "unanswerable",
+  "reason_tr": "Kullanıcı soru sormamıştır ve görsel yönü ters dönmüştür.",
+  "recommended_action_tr": "Lütfen yanıtlamak istediğiniz soruyu belirtin ve görseli doğru açıyla tekrar yükleyin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 126485,
+  "api_error": null
+}

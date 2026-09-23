@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0033",
+  "prediction": "unanswerable",
+  "reason_tr": "Kullanıcı sorusu görselde yer almıyor ve resimde herhangi bir metin veya yönlendirme sorusu bulunmuyor.",
+  "recommended_action_tr": "Lütfen yanıtlamamı istediğiniz soruyu belirtin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 80989,
+  "api_error": null
+}

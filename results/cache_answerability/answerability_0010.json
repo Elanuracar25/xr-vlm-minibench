@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0010",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel son derece düşük çözünürlüklü ve bulanık olduğu için kullanıcıya net bir bilgi sağlayamamaktadır.",
+  "recommended_action_tr": "Lütfen kamerayı daha net odaklayarak tekrar çekim yapın.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 5872,
+  "api_error": null
+}

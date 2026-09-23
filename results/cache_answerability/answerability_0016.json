@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0016",
+  "prediction": "answerable",
+  "reason_tr": "Görselde Swagbucks ödül ekranı ve üzerinde 'KEJ' yazan CAPTCHA/doğrulama kutusu net bir şekilde okunabilmektedir.",
+  "recommended_action_tr": null,
+  "answer": "KEJ",
+  "needs_human_review": false,
+  "latency_ms": 42823,
+  "api_error": null
+}

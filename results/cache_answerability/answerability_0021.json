@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0021",
+  "prediction": "unanswerable",
+  "reason_tr": "Görsel yan dönmüştür ve kullanıcının sorduğu soru (670000) görselde okunabilir veya anlamlı bir bağlama oturtulabilir durumda değildir.",
+  "recommended_action_tr": "Lütfen görseli doğru açıyla ve net bir şekilde yeniden çekip tekrar deneyin.",
+  "answer": null,
+  "needs_human_review": true,
+  "latency_ms": 5139,
+  "api_error": null
+}

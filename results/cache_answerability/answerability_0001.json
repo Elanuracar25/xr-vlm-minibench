@@ -1,0 +1,10 @@
+{
+  "sample_id": "answerability_0001",
+  "prediction": "unanswerable",
+  "reason_tr": "Görseldeki kitap kapağı ve etiket kısımları çok bulanık ve eksik kadrajlıdır, bu nedenle görme engelli bir kullanıcının okuyabileceği netlikte değildir.",
+  "recommended_action_tr": "Lütfen kitabın kapağını ve üzerindeki bilgileri net bir şekilde görebileceğimiz, daha aydınlık ve odaklanmış bir fotoğraf çekin.",
+  "answer": null,
+  "needs_human_review": false,
+  "latency_ms": 51773,
+  "api_error": null
+}
